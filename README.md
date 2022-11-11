@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/amlanjyoti" target="blank"><img src="https://img.shields.io/twitter/follow/amlanjyoti?logo=twitter&style=for-the-badge" alt="amlanjyoti" /></a> </p>
 
-- ⚡ Fun fact **I think I am funny**
+- 🌱 I’m currently learning IOS app development **Kotlin, Swift, Firebase**
+
+- 💬 Ask me about IOS app dev **Kotlin, Swift, Firebase**
+
+- 📫 How to reach me **amlanjyoti727@gmail.com**
+
+- ⚡ Fun fact **I think I am G4Y...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
